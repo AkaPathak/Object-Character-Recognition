@@ -1,7 +1,6 @@
 # Object Character Recognition Project for PAN card identification.
 
-## Orginally created in 2021
-
+## Orginally created in 2021 with team mates.
 # Indian Government Issued PAN Card Optical Character Recognition (OCR) Project
 
 
