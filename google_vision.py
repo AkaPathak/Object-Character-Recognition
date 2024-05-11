@@ -1,5 +1,3 @@
-# API Key for Google Vision (Cloud) = AIzaSyDInxyryEGaQGWGi1nEme5TxFgjEK8DOQs (unrestricted access)
-
 from base64 import b64encode
 from os import makedirs
 from os.path import join, basename
